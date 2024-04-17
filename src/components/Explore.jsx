@@ -21,7 +21,7 @@ function Explore() {
             <div className="flex flex-wrap flex-row justify-evenly my-5 ">
                 <div className="bg-white text-black  rounded-lg w-fit my-5 md:w-5/12 lg:w-1/5 ">
                     <div className="top ">
-                        {/* <img className=" w-fit rounded-t-lg" src={Img4}></img> */}
+                        <img className=" w-fit rounded-t-lg" src={Img4}></img>
 
                     </div>
                     <div className="botttom pl-5 py-5 pr-5"><h1 className=" text-slate-900 font-semibold  pb-5 text-xl">Sales</h1>
@@ -33,7 +33,7 @@ function Explore() {
 
                 <div className="bg-white text-black  rounded-lg w-fit my-5 md:w-5/12 lg:w-1/5 ">
                     <div className="top">
-                        {/* <img className="w-fit rounded-t-lg" src={Img2}></img> */}
+                        <img className="w-fit rounded-t-lg" src={Img2}></img>
 
                     </div>
                     <div className="botttom pl-5 py-5 pr-5"><h1 className="  text-slate-900 font-semibold pb-5 text-xl">Sales</h1>
@@ -44,7 +44,7 @@ function Explore() {
 
                 <div className="bg-white text-black  rounded-lg w-fit my-5 md:w-5/12 lg:w-1/5">
                     <div className="top">
-                        {/* <img className="w-fit rounded-t-lg" src={Img1}></img> */}
+                        <img className="w-fit rounded-t-lg" src={Img1}></img>
 
                     </div>
                     <div className="botttom pl-5 py-5 pr-5"><h1 className="  text-slate-900 font-semibold pb-5 text-xl">Sales</h1>
@@ -55,7 +55,7 @@ function Explore() {
 
                 <div className="bg-white text-black rounded-lg w-fit my-5 md:w-5/12 lg:w-1/5">
                     <div className="top">
-                        {/* <img className="w-fit rounded-t-lg" src={Img3}></img> */}
+                        <img className="w-fit rounded-t-lg" src={Img3}></img>
 
                     </div>
                     <div className="botttom pl-5 py-5 pr-5"><h1 className="  text-slate-900 font-semibold pb-5 text-xl">Sales</h1>
